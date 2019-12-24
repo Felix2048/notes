@@ -2,8 +2,8 @@
  * @Description: Paper List
  * @Author: Felix2048
  * @Date: 2019-10-18 17:48:30
- * @LastEditTime: 2019-10-24 14:16:42
- * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2019-12-24 14:46:38
+ * @LastEditors: Felix2048
  -->
 
 # Paper List
@@ -18,8 +18,10 @@
 
 ## Computer Vision
 
-- He, K., Sun, J., & Tang, X. (2010). [Single image haze removal using dark channel prior](./note/Single&#32;image&#32;haze&#32;removal&#32;using&#32;dark&#32;channel&#32;prior.pdf). IEEE transactions on pattern analysis and machine intelligence, 33(12), 2341-2353.
+- He, K., Sun, J., & Tang, X. (2010). [Single image haze removal using dark channel prior](<./note/Single image haze removal using dark channel prior.pdf>). IEEE transactions on pattern analysis and machine intelligence, 33(12), 2341-2353.
 
 - He, K., Sun, J., & Tang, X. (2010, September). Guided image filtering. In European conference on computer vision (pp. 1-14). Springer, Berlin, Heidelberg.
 
 - He, K., & Sun, J. (2015). Fast guided filter. arXiv preprint arXiv:[1505.00996](https://arxiv.org/abs/1505.00996).
+
+## [Vision-Language Navigation](./Vision-LanguageNavigationTask.md)
